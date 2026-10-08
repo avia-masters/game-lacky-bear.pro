@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://game-lacky-bear.pro/sitemap.xml
